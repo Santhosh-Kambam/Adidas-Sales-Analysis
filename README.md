@@ -1,6 +1,6 @@
 # Adidas Sales Performance Analysis with SQL
 
-## Project Overview
+## Project Overview		
 
 This project involves a comprehensive analysis of the Adidas sales dataset using MySQL. The primary objective was to perform data cleaning,
 conduct exploratory data analysis (EDA), and derive actionable insights into sales performance, profitability, and market trends. By leveraging 
@@ -16,7 +16,7 @@ advanced SQL functions, I transformed raw transactional data into a structured f
   
 - Analytical Techniques: (Time-Series Analysis, Profitability Analysis, Customer Segmentation)
 
-## Analytical Questions & Key Findings
+## Analytical Questions & Key Findings‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 	![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 1. What are the top-performing products and regions?
 
